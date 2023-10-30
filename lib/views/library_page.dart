@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import '../models/songs_model.dart';
 import '../utils/colors.dart';
 import '../widgets/album_container.dart';
-import '../widgets/buttoms_row.dart';
+import '../widgets/buttons_row.dart';
 
 class LibraryPage extends StatefulWidget {
   const LibraryPage({super.key});
@@ -68,8 +68,8 @@ class _LibraryPageState extends State<LibraryPage> {
                               ),
                         title: Text(
                           song.name,
-                          style: const TextStyle(
-                              color: AppColors.blackColor,
+                          style: TextStyle(
+                              color: AppColors.blackColor.withOpacity(0.7),
                               fontWeight: FontWeight.bold,
                               fontSize: 14),
                         ),

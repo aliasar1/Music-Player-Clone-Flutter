@@ -37,7 +37,7 @@ List<Song> songs = [
     isFav: true,
   ),
   Song(
-    name: 'Sait Photographs',
+    name: 'Salt Photographs',
     audioNum: '04',
     time: '6:54',
     producer: 'Brambles',
