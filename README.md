@@ -1,16 +1,31 @@
-# music_player_clone
+# Music Player Clone Flutter 🎵🎼
 
-A new Flutter project.
+This Flutter project is a clone of a music player app's home and library screens, designed to provide a seamless and visually appealing user experience for music enthusiasts. The project aims to replicate the key features and design elements of a popular music player application.
 
-## Getting Started
+## Screenshots 📸
 
-This project is a starting point for a Flutter application.
+### Library Screen
+<p align="left">
+  <img src="https://github.com/aliasar1/Music-Player-Clone-Flutter/blob/main/screenshots/library.png" alt="Library Screen">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+### Home Screen
+<p align="left">
+  <img src="https://github.com/aliasar1/Music-Player-Clone-Flutter/blob/main/screenshots/home.png" alt="Home Screen">
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## To use this app follow below instructions:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this app using below syntax:
+   > git clone https://github.com/aliasar1/Music-Player-Clone-Flutter.git
+
+2. After cloning install packages using below syntax:
+   > flutter pub get
+
+Above command will install all the necessary packages.
+
+3. Run the app on your mobile emulator using below command:
+   > flutter run
+
+
+**HAPPY CODING!** 🚀
